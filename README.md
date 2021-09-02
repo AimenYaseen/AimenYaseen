@@ -9,7 +9,7 @@ AimenYaseen/AimenYaseen is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AimenYaseen&&show_icons=true&hide_border=true&title_color=349DF0&icon_color=349DF0&text_color=ffffff&bg_color=0D1117)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AimenYaseen&&show_icons=true&hide_border=true&title_color=349DF0&icon_color=349DF0&text_color=ffffff&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
