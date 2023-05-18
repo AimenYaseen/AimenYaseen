@@ -1,9 +1,11 @@
 # Assalam-O-Alaikum!
 - 👋 I’m @AimenYaseen
-- 👩‍💻 Passionate Backend Developer | Django | Django Rest Framework
-- 🚀 I thrive on building robust and scalable apis using the power of Django and Django Rest Framework.
-- 💡 Constantly learning and exploring new technologies to enhance my coding skills.
-- 📚 Avid reader, constantly seeking knowledge and inspiration to fuel my projects.
+- 👩‍💻 Passionate Backend Developer.
+- 🚀 I thrive on building robust and scalable web applications using the power of Django and Django Rest Framework.
+- ✨ Strong passion for writing clean and efficient code, delivering high-quality solutions.
+- 📚 Continuously learning and staying updated with the latest industry trends and best practices.
+- 🔧 Proficient in API development, database management, and optimizing application performance.
+- 👥 Collaborative team player, adept at achieving project objectives and delivering outstanding results.
 - 🌍 Traveler at heart, always looking to gain new perspectives and insights.
 - 🔗 Let's collaborate and create amazing projects together!
 
