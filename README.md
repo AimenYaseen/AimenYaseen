@@ -1,8 +1,11 @@
 # Assalam-O-Alaikum!
 - 👋 I’m @AimenYaseen
-- 🎓 I'm a final year student of COMPUTER SCience at COMSATS University Islamabad, Pakistan
-- 👀 I’m new to programming
-- 🤞 I’m currently learning REACTNATIVE
+- 👩‍💻 Passionate Backend Developer | Django | Django Rest Framework
+- 🚀 I thrive on building robust and scalable apis using the power of Django and Django Rest Framework.
+- 💡 Constantly learning and exploring new technologies to enhance my coding skills.
+- 📚 Avid reader, constantly seeking knowledge and inspiration to fuel my projects.
+- 🌍 Traveler at heart, always looking to gain new perspectives and insights.
+- 🔗 Let's collaborate and create amazing projects together!
 
 <!---
 AimenYaseen/AimenYaseen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
